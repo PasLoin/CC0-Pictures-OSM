@@ -9,5 +9,5 @@
   "theme": "classic",
   "css": "./custom.css",
   "footer": "Creative Commons Zero v1.0 Universal",
-  "usage-stats": true
+  "usage-stats": false
 }
